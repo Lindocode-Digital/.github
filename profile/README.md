@@ -223,12 +223,13 @@ Personal development work, technical experiments, and selected builds from the c
 
 <br>
 
+
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top" style="padding: 20px;">
 
-<h3 style="font-family: sans; color:#B27B32; margin-top:0;">01</h3>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/num-01.svg" height="30" alt="01" /></p>
 <strong>Clear Direction</strong>
 <p style="color:#AAAAAA; line-height:1.6;">Understand the goal before writing the code.</p>
 
@@ -236,7 +237,7 @@ Personal development work, technical experiments, and selected builds from the c
 
 <td width="50%" valign="top" style="padding: 20px;">
 
-<h3 style="font-family: sans; color:#B54253; margin-top:0;">02</h3>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/num-02.svg" height="30" alt="02" /></p>
 <strong>Refined Interface</strong>
 <p style="color:#AAAAAA; line-height:1.6;">Design UI that feels intentional, modern, and usable.</p>
 
@@ -248,7 +249,7 @@ Personal development work, technical experiments, and selected builds from the c
 
 <td width="50%" valign="top" style="padding: 20px;">
 
-<h3 style="font-family: sans; color:#B27B32; margin-top:0;">03</h3>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/num-03.svg" height="30" alt="03" /></p>
 <strong>Reliable Build</strong>
 <p style="color:#AAAAAA; line-height:1.6;">Create systems that are maintainable and practical.</p>
 
@@ -256,7 +257,7 @@ Personal development work, technical experiments, and selected builds from the c
 
 <td width="50%" valign="top" style="padding: 20px;">
 
-<h3 style="font-family: sans; color:#B54253; margin-top:0;">04</h3>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/num-04.svg" height="30" alt="04" /></p>
 <strong>Fast Delivery</strong>
 <p style="color:#AAAAAA; line-height:1.6;">Keep communication focused and progress visible.</p>
 
@@ -297,38 +298,29 @@ Personal development work, technical experiments, and selected builds from the c
 <br>
 <br>
 <br>
-
 <h2 style="font-family: sans; margin: 0 0 10px; padding-left: 1.5em">
   Repository Guide
 </h2>  
 <br>
 
-<table width="100%" style="border-collapse: collapse; border: 0;">
-<tr style="border: 0;">
-<td style="padding: 28px 30px; border: 0;" valign="top">
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/label-public-facing.svg" height="24" alt="PUBLIC-FACING" /></p>
 
-<p style="color:#B27B32; font-size:12px; letter-spacing:2px; margin:0;"><strong>PUBLIC-FACING</strong></p>
+<h3>Public Projects</h3>
 
-<h3 style="font-family: sans;">Public Projects</h3>
-
-<p style="color:#AAAAAA; line-height:1.65;">
+<p>
 Open or showcase-ready repositories connected to websites, apps, experiments, and product ideas.
 </p>
 
-</td>
-<td style="padding: 28px 30px; border: 0;" valign="top">
+<br>
 
-<p style="color:#B54253; font-size:12px; letter-spacing:2px; margin:0;"><strong>PRIVATE SYSTEMS</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/label-private-systems.svg" height="24" alt="PRIVATE SYSTEMS" /></p>
 
-<h3 style="font-family: sans;">Internal Systems</h3>
+<h3>Internal Systems</h3>
 
-<p style="color:#AAAAAA; line-height:1.65;">
+<p>
 Private infrastructure, APIs, automation tools, and reusable components that support the wider studio ecosystem.
 </p>
 
-</td>
-</tr>
-</table>
 
 <br>
 
