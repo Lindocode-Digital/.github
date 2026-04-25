@@ -36,33 +36,22 @@
 <br>
 <br>
 
-<div align="center">
+<div align="left">
 
-<table width="100%" style="border-collapse: collapse; border: 0;">
-<tr style="border: 0;">
-<td style="padding: 28px 30px; border: 0;" valign="top">
-
-<h2 style="font-family: sans; margin: 0 0 10px;">
-  Studio Overview
-</h2>
-
-<p style="font-size: 15px; line-height: 1.7; color: #555555; margin: 0;">
-  <strong style="color:#B54253;">Lindocode Digital</strong> is a <em>South Africa-based</em> development studio focused on building
+<h2>Studio Overview</h2>
+<p>
+  <strong>Lindocode Digital</strong> is a <em>South Africa-based</em> development studio focused on building
   clean, useful, and performance-minded digital products.
 </p>
 
 <br>
 
-<p style="font-size: 15px; line-height: 1.7; color: #555555; margin: 0;">
-  We work across <strong style="color:#B54253;">web</strong>, <strong style="color:#B54253;">mobile</strong>,
-  <strong style="color:#B54253;">backend systems</strong>, <strong style="color:#B54253;">automation</strong>, and product experiments -
-  with a practical focus on shipping tools that feel <strong style="color:#B27B32;">polished</strong>,
-  <strong style="color:#B27B32;">reliable</strong>, and <strong style="color:#B27B32;">purpose-built</strong>.
+<p>
+  We work across <strong>web</strong>, <strong>mobile</strong>,
+  <strong>backend systems</strong>, <strong>automation</strong>, and product experiments -
+  with a practical focus on shipping tools that feel <strong>polished</strong>,
+  <strong>reliable</strong>, and <strong>purpose-built</strong>.
 </p>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -349,8 +338,6 @@ Private infrastructure, APIs, automation tools, and reusable components that sup
 
 <p>
   <a href="https://lindocode.com/terms?theme=minimal" style="text-decoration: none; color: #B27B32; font-family: sans-serif; font-weight: 600;"><strong >Terms</strong></a>
-  ·
-  <a href="https://lindocode.com/digitalhub" style="text-decoration: none; color: #555555; font-family: sans-serif; font-weight: 600;"><strong>Digital Hub</strong></a>
   ·
   <a href="https://lindocode.com/privacy?theme=minimal" style="text-decoration: none; color: #B27B32; font-family: sans-serif; font-weight: 600;"><strong>Privacy</strong></a>
 </p>
