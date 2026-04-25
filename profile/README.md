@@ -1,16 +1,14 @@
 <div align="center">
 
 <!-- HERO -->
- <img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/icon.svg"
+<h1 style="font-size:2.4rem; font-weight:700; letter-spacing:0.5px; font-family: sans;">
+  <img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/icon.svg"
        width="36"
        style="vertical-align:-6px; margin-right:12px; " />
-<h1 style="font-size:2.4rem; font-weight:700; letter-spacing:0.5px; font-family: sans;">
   Lindocode Digital
 </h1>
 
-<p style="font-size:0.95rem; letter-spacing:2px; color:#888; font-family: sans;">
-  INNOVATE · <span style="color:#B54253;">BUILD</span> · SCALE
-</p>
+<img src="[./assets/](https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/slogan.svg" width="520" alt="INNOVATE · BUILD · SCALE" />
 
 <p style="max-width:620px; font-size:0.95rem; color:#555555; font-family: sans;">
   Premium web, mobile, and backend systems built with clarity,
@@ -21,9 +19,11 @@
 
 <!-- NAV -->
 <p>
-  <a href="https://lindocode.com" style="text-decoration: none;"><b style="color:#B27B32; font-family: sans;">Studio</b></a> &nbsp;·&nbsp;
-  <a href="https://lindocode.com/projects" style="text-decoration: none;"><b style="color:#555555; font-family: sans;">Digital Hub</b></a> &nbsp;·&nbsp;
-  <a href="https://lindocode.com/contact?theme=minimal" style="text-decoration: none;"><b style="color:#B27B32; font-family: sans;">Contact</b></a>
+  <a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-studio.svg" height="28" alt="Studio" /></a>
+  <img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-dot.svg" height="28" alt="·" />
+  <a href="https://lindocode.com/projects"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-digital-hub.svg" height="28" alt="Digital Hub" /></a>
+  <img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-dot.svg" height="28" alt="·" />
+  <a href="https://lindocode.com/contact?theme=minimal"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/nav-contact.svg" height="28" alt="Contact" /></a>
 </p>
 
 <br>
@@ -34,7 +34,8 @@
 <img src="https://img.shields.io/badge/BASED%20IN-SOUTH%20AFRICA-B27B32?style=for-the-badge"/>
 
 </div>
-<br>
+
+---
 <br>
 
 <div align="center">
@@ -347,7 +348,6 @@ Private infrastructure, APIs, automation tools, and reusable components that sup
 
 <div align="center">
 <br/>
-### Build things that work. Keep them fast. Keep them clean. Keep them useful.
 
 <p>
   <a href="https://lindocode.com/terms?theme=minimal" style="text-decoration: none; color: #B27B32; font-family: sans-serif; font-weight: 600;"><strong >Terms</strong></a>
