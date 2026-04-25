@@ -74,13 +74,13 @@
 Modern websites, dashboards, landing pages, and full-stack web applications designed for speed, trust, and conversion.
 </p>
 
-<p><strong style="color:#B27B32;">Common work</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/common-work.svg" height="24" alt="Common work" /></p>
 
 <p style="color:#B54253; line-height:1.7;">
-Next.js / Vite apps<br>
-SEO-focused pages<br>
-Portfolio and company sites<br>
-Client dashboards
+- Next.js / Vite apps<br>
+- SEO-focused pages<br>
+- Portfolio and company sites<br>
+- Client dashboards
 </p>
 
 </td>
@@ -93,13 +93,13 @@ Client dashboards
 Mobile-first products and cross-platform experiments with a practical focus on usability and performance.
 </p>
 
-<p><strong style="color:#B27B32;">Common work</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/common-work.svg" height="24" alt="Common work" /></p>
 
 <p style="color:#B54253; line-height:1.7;">
-Expo / React Native<br>
-WebView-based tools<br>
-Cloud-connected apps<br>
-MVP product builds
+- Expo / React Native<br>
+- WebView-based tools<br>
+- Cloud-connected apps<br>
+- MVP product builds
 </p>
 
 </td>
@@ -114,13 +114,13 @@ MVP product builds
 Backend services, automation layers, mail systems, validation tools, and infrastructure that supports real products.
 </p>
 
-<p><strong style="color:#B27B32;">Common work</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/common-work.svg" height="24" alt="Common work" /></p>
 
 <p style="color:#B54253; line-height:1.7;">
-Node.js / Express APIs<br>
-Supabase integrations<br>
-Cloudflare Workers<br>
-Deployment pipelines
+- Node.js / Express APIs<br>
+- Supabase integrations<br>
+- Cloudflare Workers<br>
+- Deployment pipelines
 </p>
 
 </td>
