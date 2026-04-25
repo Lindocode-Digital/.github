@@ -8,7 +8,7 @@
   Lindocode Digital
 </h1>
 
-<img src="[./assets/](https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/slogan.svg" width="520" alt="INNOVATE · BUILD · SCALE" />
+<img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/slogan.svg" width="520" alt="INNOVATE · BUILD · SCALE" />
 
 <p style="max-width:620px; font-size:0.95rem; color:#555555; font-family: sans;">
   Premium web, mobile, and backend systems built with clarity,
