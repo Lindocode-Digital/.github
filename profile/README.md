@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HERO -->
-<h1 style="font-size:2.4rem; font-weight:700; letter-spacing:0.5px; font-family: sans;">
-  <img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/icon.svg"
+ <img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/icon.svg"
        width="36"
        style="vertical-align:-6px; margin-right:12px; " />
+<h1 style="font-size:2.4rem; font-weight:700; letter-spacing:0.5px; font-family: sans;">
   Lindocode Digital
 </h1>
 
@@ -34,9 +34,7 @@
 <img src="https://img.shields.io/badge/BASED%20IN-SOUTH%20AFRICA-B27B32?style=for-the-badge"/>
 
 </div>
-
----
-
+<br>
 <br>
 
 <div align="center">
@@ -348,8 +346,7 @@ Private infrastructure, APIs, automation tools, and reusable components that sup
 
 
 <div align="center">
-  
-  ---
+<br/>
 ### Build things that work. Keep them fast. Keep them clean. Keep them useful.
 
 <p>
