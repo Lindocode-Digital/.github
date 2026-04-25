@@ -139,7 +139,7 @@ Deployment pipelines
 <tr>
 <td width="50%" valign="top" style="padding: 22px; border-radius: 16px;">
 
-<p style="color:#B27B32; font-size:12px; letter-spacing:2px; margin:0;"><strong>STUDIO</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/label-studio.svg" height="24" alt="STUDIO" /></p>
 
 <h3 style="font-family: sans; margin-bottom: 8px;">Lindocode Digital</h3>
 
@@ -147,14 +147,12 @@ Deployment pipelines
 Core studio work, client-facing systems, polished interfaces, and production-ready development.
 </p>
 
-<a href="https://lindocode.com" style="text-decoration:none;">
-  <strong style="color:#B27B32;">Visit Lindocode →</strong>
-</a>
+<a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/cta-visit-lindocode.svg" height="24" alt="Visit Lindocode" /></a>
 
 </td>
 <td width="50%" valign="top" style="padding: 22px; border-radius: 16px;">
 
-<p style="color:#B54253; font-size:12px; letter-spacing:2px; margin:0;"><strong>PRODUCT LAB</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/label-product-lab.svg" height="24" alt="PRODUCT LAB" /></p>
 
 <h3 style="font-family: sans; margin-bottom: 8px;">Digital Hub</h3>
 
@@ -162,16 +160,14 @@ Core studio work, client-facing systems, polished interfaces, and production-rea
 Experimental builds, product ideas, quick prototypes, and tools designed to turn rough concepts into usable software.
 </p>
 
-<a href="https://lindocode.com/digitalhub" style="text-decoration:none;">
-  <strong style="color:#B27B32;">Explore Digital Hub →</strong>
-</a>
+<a href="https://lindocode.com/digitalhub"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/cta-explore-digital-hub.svg" height="24" alt="Explore Digital Hub" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding: 22px;">
 
-<p style="color:#B27B32; font-size:12px; letter-spacing:2px; margin:0;"><strong>CURATED WORK</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/label-curated-work.svg" height="24" alt="CURATED WORK" /></p>
 
 <h3 style="font-family: sans; margin-bottom: 8px;">Project Showcase</h3>
 
@@ -179,14 +175,12 @@ Experimental builds, product ideas, quick prototypes, and tools designed to turn
 A curated view of selected web, mobile, API, and product experiments from across the studio.
 </p>
 
-<a href="https://lindocode.com/projects" style="text-decoration:none;">
-  <strong style="color:#B27B32;">View Projects →</strong>
-</a>
+<a href="https://lindocode.com/projects"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/cta-view-projects.svg" height="24" alt="View Projects" /></a>
 
 </td>
 <td width="50%" valign="top" style="padding: 22px;">
 
-<p style="color:#B54253; font-size:12px; letter-spacing:2px; margin:0;"><strong>CREATOR WORK</strong></p>
+<p><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/label-creator-work.svg" height="24" alt="CREATOR WORK" /></p>
 
 <h3 style="font-family: sans; margin-bottom: 8px;">Developer Portfolio</h3>
 
@@ -194,13 +188,12 @@ A curated view of selected web, mobile, API, and product experiments from across
 Personal development work, technical experiments, and selected builds from the creator behind Lindocode.
 </p>
 
-<a href="https://portfolio.lindocode.com" style="text-decoration:none;">
-  <strong style="color:#B27B32;">Open Portfolio →</strong>
-</a>
+<a href="https://portfolio.lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/cta-open-portfolio.svg" height="24" alt="Open Portfolio" /></a>
 
 </td>
 </tr>
 </table>
+
 
 <br>
 <br>
@@ -209,21 +202,11 @@ Personal development work, technical experiments, and selected builds from the c
 <h2 style="font-family: sans; margin: 0 0 10px; padding-left: 1.5em">
   Engineering Approach
 </h2>  
-<table width="100%" style="border-collapse: collapse; border: 0;">
-<tr style="border: 0;">
-<td style="padding: 28px 30px; border: 0;" valign="top">
 
 <p style="font-size:16px; line-height:1.7; color:#AAAAAA; margin:0;">
   <em>We build digital products that feel clean, load fast, solve real problems, and avoid unnecessary complexity.</em>
 </p>
-
-</td>
-</tr>
-</table>
-
 <br>
-
-
 <table width="100%">
 <tr>
 
@@ -277,9 +260,8 @@ Personal development work, technical experiments, and selected builds from the c
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" style="padding: 18px; background:#0E0E0E; border-radius:14px;">
+
+<div align="center" style="padding: 18px; background:#0E0E0E; border-radius:14px;">
 
 <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -289,9 +271,8 @@ Personal development work, technical experiments, and selected builds from the c
 <img src="https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
 <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</div>
+
 
 </div>
 
