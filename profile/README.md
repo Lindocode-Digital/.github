@@ -8,6 +8,8 @@
   Lindocode Digital
 </h1>
 <a href="https://lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/slogan.svg" width="520" alt="INNOVATE · BUILD · SCALE" /></a>
+<a href="https://portfolio.lindocode.com"><img src="https://dawn-unit-97b0.sdrowvieli1.workers.dev/creativehub/images/portfolio/studio.svg" width="560" alt="Portfolio — Web, Mobile, Backend and UI Systems" /></a>
+
 <br/>
 <br/>
 <p style="max-width:620px; font-size:0.95rem; color:#555555; font-family: sans;">
@@ -27,7 +29,7 @@
 <br>
 
 <!-- BADGES -->
-<a href="https://lindocode.com"><img src="https://img.shields.io/badge/STUDIO-LINDOCODE-0E0E0E?style=for-the-badge"/></a>
+<a href="https://lindocode.com"><img src="https://img.shields.io/badge/STUDIO-LINDOCODE%20DIGITAL-0E0E0E?style=for-the-badge"/></a>
 <a href="https://lindocode.com"><img src="https://img.shields.io/badge/FOCUS-WEB·MOBILE·SYSTEMS-0E0E0E?style=for-the-badge"/></a>
 <a href="https://lindocode.com"><img src="https://img.shields.io/badge/BASED%20IN-SOUTH%20AFRICA-B27B32?style=for-the-badge"/></a>
 
